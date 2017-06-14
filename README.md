@@ -1,0 +1,2 @@
+# BDI2000
+XPC860 chip
